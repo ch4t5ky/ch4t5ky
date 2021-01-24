@@ -8,10 +8,8 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=ffa500)
 
 ## &#127919; GitHub Stats
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4t5ky" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ch4t5ky&show_icons=true&line_height=27&count_private=true"/>
-</a>
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ch4t5ky&show_icons=true&hide=tcl,kotlin">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ch4t5ky&show_icons=true&line_height=27&count_private=true">
+</p>
 
