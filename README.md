@@ -10,6 +10,6 @@
 ## &#127919; GitHub Stats
 <p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ch4t5ky&show_icons=true&hide=tcl,fortran,c,powershell,batchfile">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ch4t5ky&show_icons=true&line_height=27&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ch4t5ky&show_icons=true&line_height=33&count_private=true">
 </p>
 
