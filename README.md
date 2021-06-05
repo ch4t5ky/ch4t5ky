@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffa500)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=ffa500)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffa500)
+![](https://img.shields.io/badge/Tools-Consul-informational?style=flat&logo=consul&logoColor=white&color=ffa500)
+![](https://img.shields.io/badge/Tools-Vault-informational?style=flat&logo=vault&logoColor=white&color=ffa500)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffa500)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=ffa500)
 
