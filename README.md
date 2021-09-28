@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ch4t5ky/ch4t5ky/master/space_header.png)](https://www.instagram.com/rus_empire1721/)
+[![Header](https://raw.githubusercontent.com/ch4t5ky/ch4t5ky/master/space_header.png)]
 ## 🔧 Technologies & Tools
 ### Programming languages
 <a><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
