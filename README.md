@@ -27,7 +27,7 @@
 
 ## &#127919; GitHub Stats
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ch4t5ky&hide=tcl,fortran,c,powershell,batchfile,rpc">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ch4t5ky&hide=tcl,fortran,c,batchfile,rpc">
   <img src = "https://github-readme-stats.vercel.app/api?username=ch4t5ky&show_icons=true&line_height=33&count_private=true">
 </p>
 
