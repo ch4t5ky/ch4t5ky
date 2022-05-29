@@ -9,6 +9,7 @@
 ### Services
 <a><img alt="Docker" src="https://img.shields.io/badge/Docker-066da5.svg?logo=docker&logoColor=white"></a>
 <a><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-db4e30.svg?&logo=prometheus&logoColor=white"></a>
+<a><img alt="Nginx" src="https://img.shields.io/badge/Nginx-029638.svg?logo=nginx&logoColor=white"></a>
 <a><img alt="Grafana" src="https://img.shields.io/badge/Grafana-1f1f1f.svg?&logo=grafana&logoColor=white"></a>
 <a><img alt="Consul" src="https://img.shields.io/badge/Consul-d7267f.svg?logo=consul&logoColor=white"></a>
 <a><img alt="Vault" src="https://img.shields.io/badge/Vault-121011.svg?logo=vault&logoColor=white"></a>
