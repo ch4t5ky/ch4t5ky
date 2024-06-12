@@ -10,7 +10,7 @@
 ### Monitoring
 <a><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-db4e30.svg?&logo=prometheus&logoColor=white"></a>
 <a><img alt="Grafana" src="https://img.shields.io/badge/Grafana-D35920.svg?&logo=grafana&logoColor=white"></a>
-<a><img alt="Grafana" src="https://img.shields.io/badge/Elastic Stack-FEC514.svg?&logo=elasticstack&logoColor=white"></a>
+<a><img alt="Elastic Stack" src="https://img.shields.io/badge/Elastic Stack-FEC514.svg?&logo=elasticstack&logoColor=white"></a>
 
 ### Hashicorp Stack
 <a><img alt="Consul" src="https://img.shields.io/badge/Consul-d7267f.svg?logo=consul&logoColor=white"></a>
