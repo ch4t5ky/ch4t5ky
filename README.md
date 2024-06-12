@@ -2,8 +2,8 @@
 ## 🔧 Technologies & Tools
 
 ### Code
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-informational.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-50a94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
